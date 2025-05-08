@@ -1,14 +1,14 @@
 ![thumbnail](https://user-images.githubusercontent.com/16558205/180779213-ea740975-3df1-460a-a964-0a623ee25872.png)
 
-### Live - https://ui.chetanverma.com/template/1
+### Live - https://ui.buvanshangar.com/template/1
 ### Demo Video - https://www.youtube.com/watch?v=62_HLbx2zLQ&t=9s
-### Open Source UI Components - https://ui.chetanverma.com/
+### Open Source UI Components - https://ui.buvanshangar.com/
 
 ### Tutorials
 
 Youtube - https://www.youtube.com/watch?v=8cmJ2kR4SpM
 
-Blog - https://www.chetanverma.com/blog/how-to-build-a-portfolio-website-using-nextjs-and-tailwindcss
+Blog - https://www.buvanshangar.com/blog/how-to-build-a-portfolio-website-using-nextjs-and-tailwindcss
 
 ### Features - 
 
@@ -47,7 +47,7 @@ Blog - https://www.chetanverma.com/blog/how-to-build-a-portfolio-website-using-n
 
 Quickes way to deploy this repo - 
 
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chetanverma16/react-portfolio-template)
+[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/buvanshangar/react-portfolio-template)
 
 
 ### How To Contribute - 
@@ -70,7 +70,7 @@ If you liked this portfolio template, don't forget to give it a ⭐.
 ## Supporting
 Many hours of hard work have gone into this project. Your support will be very appreciated!
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chetanverma)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/buvanshangar)
 
 
 
