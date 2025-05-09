@@ -3,7 +3,7 @@
   "headerTaglineOne": "Hello 👋",
   "headerTaglineTwo": "I'm Buvan Shangar - curious",
   "headerTaglineThree": "designer and devloper",
-  "headerTaglineFour": " based in New Delhi, India.",
+  "headerTaglineFour": " ",
   "showCursor": true,
   "showBlog": true,
   "darkMode": true,
@@ -13,7 +13,7 @@
     {
       "id": "2",
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/buvanshangar7/"
+      "link": "https://www.linkedin.com/in/buvan-shangar/"
     },
     {
       "id": "3",
@@ -26,44 +26,30 @@
   "projects": [
     {
       "id": "1",
-      "title": "Project One Test",
-      "description": "Web Design",
-      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://buvanshangar.com/"
+      "title": "Blissfull Cucoon",
+      "description": "Web Development",
+      "imageSrc": "https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-d2f4-622f-8f9e-bee427815321/raw?se=2025-05-09T15%3A34%3A19Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=e9d2f8b1-028a-4cff-8eb1-d0e66fbefcca&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-09T12%3A15%3A47Z&ske=2025-05-10T12%3A15%3A47Z&sks=b&skv=2024-08-04&sig=xrXYO6mCnrSDQX2VkEdlS9Rw57gOQqFMOnkIO7WwwJo%3D",
+      "url": "https://github.com/BuvanShangar/Blissful-Cocoon.git/"
     },
     {
       "id": "2",
-      "title": "Project Two",
+      "title": "Library management",
       "description": "Web Development",
-      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://buvanshangar.com/"
+      "imageSrc": "https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-b080-622f-b3a9-b59937aa3ee6/raw?se=2025-05-09T15%3A43%3A46Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=e9d2f8b1-028a-4cff-8eb1-d0e66fbefcca&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-09T11%3A36%3A25Z&ske=2025-05-10T11%3A36%3A25Z&sks=b&skv=2024-08-04&sig=UoRtNXs3q8t9Qkk5otkm/P9v3KUVrmnzIGiKmzPRQrQ%3D",
+      "url": "https://github.com/BuvanShangar/Book-Store.git"
     },
     {
       "id": "3",
-      "title": "Project Three",
-      "description": "Design",
-      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://buvanshangar.com/"
+      "title": "Guess a number game",
+      "description": "web Game",
+      "imageSrc": "data:image/jpeg;base64,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",
+      "url": "https://github.com/BuvanShangar/Guess-My-Number.git"
     },
     {
       "id": "4",
       "title": "Project Four",
       "description": "Marketing",
       "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://buvanshangar.com/"
-    },
-    {
-      "id": "5",
-      "title": "Project Five",
-      "description": "Development",
-      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://buvanshangar.com/"
-    },
-    {
-      "id": "6",
-      "title": "Project Six",
-      "description": "Design & Development",
-      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
       "url": "http://buvanshangar.com/"
     }
   ],
